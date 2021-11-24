@@ -56,10 +56,18 @@ ul, ol {
 }
 
 /* CSS for styles of links */
+a:link {
+  color: white;
+}
+
 a:vistied {
   color: lightgreen;
 }
 
 a:hover {
   color: yellow;
+}
+
+a:active {
+  color: lightblue;
 }
