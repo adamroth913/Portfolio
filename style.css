@@ -57,7 +57,7 @@ ul, ol {
 
 /* CSS for styles of links */
 a:vistied {
-  color: red;
+  color: lightgreen;
 }
 
 a:hover {
